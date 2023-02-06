@@ -88,6 +88,7 @@
             android:layout_weight="1"
             android:background="@color/button_background_color"
             android:text="÷"
+            android:textColor="@color/white"
             android:textSize="30sp" />
 
     </LinearLayout>
@@ -138,6 +139,7 @@
             android:layout_weight="1"
             android:background="@color/purple_500"
             android:text="×"
+            android:textColor="@color/white"
             android:textSize="30sp" />
     </LinearLayout>
 
@@ -186,8 +188,8 @@
             android:layout_weight="1"
             android:background="@color/button_background_color"
             android:text="+"
-            android:textSize="30sp"
-            />
+            android:textColor="@color/white"
+            android:textSize="30sp" />
 
     </LinearLayout>
 
@@ -236,6 +238,7 @@
             android:layout_weight="1"
             android:background="@color/button_background_color"
             android:text="-"
+            android:textColor="@color/white"
             android:textSize="30sp" />
 
     </LinearLayout>
@@ -285,6 +288,7 @@
             android:layout_weight="1"
             android:background="@color/keypad_background_color"
             android:text="@string/equal"
+            android:textColor="@color/white"
             android:textSize="30sp" />
 
     </LinearLayout>
