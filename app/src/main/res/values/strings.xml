@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculater</string>
+    <string name="_0">0</string>
+    <string name="x_sup_2_sup">x<sup>2</sup></string>
+    <string name="by_x"><sup>1</sup>/<sub>x</sub></string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+</resources>
