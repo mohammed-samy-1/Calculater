@@ -286,10 +286,11 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@color/keypad_background_color"
             android:text="@string/equal"
+            android:background="@color/button_background_color"
             android:textColor="@color/white"
-            android:textSize="30sp" />
+            android:textSize="30sp"
+            />
 
     </LinearLayout>
 
