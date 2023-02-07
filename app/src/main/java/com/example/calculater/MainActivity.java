@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         initViews();
         initAction();
-        startActivityForResult(new Intent(this , MainActivity.class),555);
     }
 
     private void initAction() {
